@@ -1,0 +1,47 @@
+Type,Abbreviation,Variable,Weight,NextLevel,MaterialityFilter,Order
+EPI,EPI,Environmental Performance Index,,,,1
+PolicyObjective,HLT,Environmental Health,0.4,EPI,,2
+IssueCategory,AIR,Air Quality,0.5,HLT,,3
+Indicator,PMD,PM2.5 exposure,0.55,AIR,,4
+Indicator,HAD,Household solid fuels,0.4,AIR,,5
+Indicator,OZD,Ozone exposure,0.05,AIR,,6
+IssueCategory,H2O,Sanitation & Drinking Water,0.4,HLT,,7
+Indicator,USD,Unsafe sanitation ,0.4,H2O,,8
+Indicator,UWD,Unsafe drinking water,0.6,H2O,,9
+IssueCategory,HMT,Heavy Metals,0.05,HLT,,10
+Indicator,PBD,Lead exposure,1,HMT,,11
+IssueCategory,WMG,Waste Management,0.05,HLT,,12
+Indicator,MSW,Controlled solid waste,1,WMG,,13
+PolicyObjective,ECO,Ecosystem Vitality,0.6,EPI,,14
+IssueCategory,BDH,Biodiversity & Habitat,0.25,ECO,,15
+Indicator,TBN,Terrestrial biome protection (national weights),0.2,BDH,,16
+Indicator,TBG,Terrestrial biome protection (global weights),0.2,BDH,,17
+Indicator,MPA,Marine protected areas,0.2,BDH,SEA,18
+Indicator,PAR,Protected Areas Representativeness Index,0.1,BDH,,19
+Indicator,SHI,Species Habitat Index,0.1,BDH,,20
+Indicator,SPI,Species Protection Index,0.1,BDH,,21
+Indicator,BHV,Biodiversity Habitat Index,0.1,BDH,,22
+IssueCategory,ECS,Ecosystem Services,0.1,ECO,,23
+Indicator,TCL,Tree cover loss,0.9,ECS,,24
+Indicator,GRL,Grassland loss,0.05,ECS,,25
+Indicator,WTL,Wetland loss,0.05,ECS,,26
+IssueCategory,FSH,Fisheries,0.1,ECO,SEA,27
+Indicator,FSS,Fish Stock Status,0.35,FSH,SEA,28
+Indicator,RMS,Marine Trophic Index,0.35,FSH,SEA,29
+Indicator,FGT,Fish caught by trawling,0.3,FSH,SEA,30
+IssueCategory,CCH,Climate Change,0.4,ECO,,31
+Indicator,CDA,Adjusted emissions growth rate for carbon dioxide,0.55,CCH,,32
+Indicator,CHA,Adjusted emissions growth rate for methane,0.15,CCH,,33
+Indicator,FGA,Adjusted emissions growth rate for F-gases,0.1,CCH,,34
+Indicator,NDA,Adjusted emissions growth rate for nitrous oxide,0.05,CCH,,35
+Indicator,BCA,Adjusted emissions growth rate for black carbon,0.05,CCH,,36
+Indicator,LCB,Growth rate in carbon dioxide emissions from land cover,0.025,CCH,,37
+Indicator,GIB,Greenhouse gas intensity growth rate,0.05,CCH,,38
+Indicator,GHP,Greenhouse gas emissions per capita,0.025,CCH,,39
+IssueCategory,APE,Pollution Emissions,0.05,ECO,,40
+Indicator,SDA,Adjusted emissions growth rate for sulfer dioxide,0.5,APE,,41
+Indicator,NXA,Adjusted emissions growth rate for nitrous oxides,0.5,APE,,42
+IssueCategory,AGR,Agriculture,0.05,ECO,,43
+Indicator,SNM,Sustainable Nitrogen Management Index,1,AGR,,44
+IssueCategory,WRS,Water Resources,0.05,ECO,,45
+Indicator,WWT,Wastewater treatment,1,WRS,,46
