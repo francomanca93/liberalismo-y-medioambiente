@@ -9,7 +9,7 @@ El proceso de Análisis de Datos será la recolección, transformación, limpiez
 - [Environmental Performance Index](https://epi.yale.edu/)
 - [Heritage Foundation](https://www.heritage.org/)
 
-2. El proceso de transformación y limpieza de datos se realiza en el siguiente [Notebook]()
+2. El proceso de transformación y limpieza de datos se realiza en el siguiente [Notebook](https://github.com/francomanca93/liberalismo-y-medioambiente/blob/master/Notebooks/1_Extraccion_y_limpieza_de_datos.ipynb)
 
 3. El modelado de datos se lleva a cabo en el siguiente [Notebook]() por separado donde se utilizan los datos limpios para un analisis obteniendo gráficas y se tratando de descubrir información útil.
 
