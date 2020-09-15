@@ -1,0 +1,13 @@
+,country,region,year,human_freedom_index,environmetal_performance_index,ecosystem_vitality,environmental_health
+0,Antigua and Barbuda,america,2020,,48.5,43.8,55.5
+1,Grenada,america,2020,,43.1,40.9,46.3
+2,Marshall Islands,asia-pacific,2020,,30.8,29.6,32.6
+3,Hong Kong,asia-pacific,2020,89.1,,,
+4,Macau,asia-pacific,2020,70.3,,,
+5,North Korea,asia-pacific,2020,4.2,,,
+6,Libya,north-africa-middle-east,2020,,,,
+7,Syria,north-africa-middle-east,2020,,,,
+8,Yemen,north-africa-middle-east,2020,,,,
+9,Kosovo,europe,2020,67.4,,,
+10,Liechtenstein,europe,2020,,,,
+11,Somalia,sub-saharan-africa,2020,,,,

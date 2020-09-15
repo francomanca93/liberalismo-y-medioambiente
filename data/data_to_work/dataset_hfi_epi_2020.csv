@@ -1,0 +1,178 @@
+,country,region,year,human_freedom_index,environmetal_performance_index,ecosystem_vitality,environmental_health
+0,Argentina,america,2020,53.1,52.2,46.8,60.2
+1,Barbados,america,2020,61.4,45.6,35.6,60.7
+2,Belize,america,2020,57.4,41.9,43.0,40.3
+3,Bolivia,america,2020,42.8,44.3,49.8,35.9
+4,Brazil,america,2020,53.7,51.2,52.2,49.7
+5,Canada,america,2020,78.2,71.0,57.3,91.7
+6,Chile,america,2020,76.8,55.3,49.8,63.4
+7,Colombia,america,2020,69.2,52.9,51.6,55.0
+8,Costa Rica,america,2020,65.8,52.5,47.2,60.5
+9,Cuba,america,2020,26.9,48.4,47.0,50.5
+10,Dominica,america,2020,60.8,44.6,43.1,46.8
+11,Dominican Republic,america,2020,60.9,46.3,53.2,36.1
+12,Ecuador,america,2020,51.3,51.0,51.5,50.2
+13,El Salvador,america,2020,61.6,43.1,43.5,42.5
+14,Guatemala,america,2020,64.0,31.8,32.5,30.8
+15,Guyana,america,2020,56.2,35.9,37.5,33.5
+16,Haiti,america,2020,52.3,27.0,30.5,21.8
+17,Honduras,america,2020,61.1,37.8,40.7,33.4
+18,Jamaica,america,2020,68.5,48.2,50.0,45.5
+19,Mexico,america,2020,66.0,52.6,55.9,47.5
+20,Nicaragua,america,2020,57.2,39.2,38.6,40.2
+21,Panama,america,2020,67.2,47.3,45.2,50.4
+22,Paraguay,america,2020,63.0,46.4,46.2,46.8
+23,Peru,america,2020,67.9,44.0,43.2,45.1
+24,Saint Lucia,america,2020,68.2,43.1,40.0,47.8
+25,Saint Vincent and the Grenadines,america,2020,66.8,48.4,51.3,44.1
+26,Suriname,america,2020,49.5,45.2,50.9,36.6
+27,The Bahamas,america,2020,64.5,43.5,37.0,53.1
+28,Trinidad and Tobago,america,2020,58.3,47.5,42.9,54.6
+29,United States,america,2020,76.6,69.3,60.3,82.8
+30,Uruguay,america,2020,69.1,49.1,36.7,67.7
+31,Venezuela,america,2020,25.2,50.3,52.9,46.5
+32,Afghanistan,asia-pacific,2020,54.7,25.5,29.2,20.0
+33,Australia,asia-pacific,2020,82.6,74.9,63.8,91.6
+34,Bangladesh,asia-pacific,2020,56.4,29.0,33.5,22.4
+35,Bhutan,asia-pacific,2020,62.1,39.3,45.7,29.8
+36,Brunei Darussalam,asia-pacific,2020,66.6,54.8,42.0,74.0
+37,Burma,asia-pacific,2020,54.0,25.1,25.4,24.6
+38,Cambodia,asia-pacific,2020,57.3,33.6,35.6,30.5
+39,China,asia-pacific,2020,59.5,37.3,34.4,41.8
+40,Fiji,asia-pacific,2020,63.4,34.4,34.2,34.7
+42,India,asia-pacific,2020,56.5,27.6,35.2,16.3
+43,Indonesia,asia-pacific,2020,67.2,37.8,43.7,29.0
+44,Japan,asia-pacific,2020,73.3,75.1,65.1,90.3
+45,Kazakhstan,asia-pacific,2020,69.6,44.7,47.3,40.8
+46,Kiribati,asia-pacific,2020,45.2,37.7,47.5,22.9
+47,Kyrgyz Republic,asia-pacific,2020,62.9,39.8,43.8,33.7
+48,Laos,asia-pacific,2020,55.5,34.8,39.9,27.2
+50,Malaysia,asia-pacific,2020,74.7,47.9,42.9,55.4
+51,Maldives,asia-pacific,2020,56.5,35.6,27.4,48.0
+52,Micronesia,asia-pacific,2020,52.0,33.0,34.5,30.8
+53,Mongolia,asia-pacific,2020,55.9,32.2,35.3,27.6
+54,Nepal,asia-pacific,2020,54.2,32.7,40.5,21.0
+55,New Zealand,asia-pacific,2020,84.1,71.3,60.2,88.0
+57,Pakistan,asia-pacific,2020,54.8,33.1,45.3,14.6
+58,Papua New Guinea,asia-pacific,2020,58.4,32.4,35.1,28.4
+59,Philippines,asia-pacific,2020,64.5,38.4,41.4,34.1
+60,Samoa,asia-pacific,2020,62.1,37.3,33.9,42.4
+61,Singapore,asia-pacific,2020,89.4,58.1,40.2,85.0
+62,Solomon Islands,asia-pacific,2020,52.9,26.7,30.9,20.4
+63,South Korea,asia-pacific,2020,74.0,66.5,56.6,81.4
+64,Sri Lanka,asia-pacific,2020,57.4,39.0,36.9,42.1
+65,Taiwan,asia-pacific,2020,77.1,57.2,55.8,59.2
+66,Tajikistan,asia-pacific,2020,52.2,38.2,49.9,20.7
+67,Thailand,asia-pacific,2020,69.4,45.4,43.5,48.4
+68,Timor-Leste,asia-pacific,2020,45.9,35.3,39.5,28.9
+69,Tonga,asia-pacific,2020,58.8,45.1,46.0,43.6
+70,Turkmenistan,asia-pacific,2020,46.5,43.9,43.1,45.0
+71,Uzbekistan,asia-pacific,2020,57.2,44.3,54.1,29.7
+72,Vanuatu,asia-pacific,2020,60.7,28.9,30.4,26.7
+73,Vietnam,asia-pacific,2020,58.8,33.4,28.5,40.6
+74,Algeria,north-africa-middle-east,2020,46.9,44.8,41.0,50.4
+75,Bahrain,north-africa-middle-east,2020,66.3,51.0,52.2,49.2
+76,Egypt,north-africa-middle-east,2020,54.0,43.3,49.7,33.8
+77,Iran,north-africa-middle-east,2020,49.2,48.0,47.8,48.3
+78,Iraq,north-africa-middle-east,2020,,39.5,39.4,39.5
+79,Israel,north-africa-middle-east,2020,74.0,65.8,54.0,83.6
+80,Jordan,north-africa-middle-east,2020,66.0,53.4,49.9,58.6
+81,Kuwait,north-africa-middle-east,2020,63.2,53.6,51.2,57.3
+82,Lebanon,north-africa-middle-east,2020,51.7,45.4,40.3,53.1
+84,Morocco,north-africa-middle-east,2020,63.3,42.3,48.3,33.3
+85,Oman,north-africa-middle-east,2020,63.6,38.5,35.2,43.4
+86,Qatar,north-africa-middle-east,2020,72.3,37.1,23.9,56.9
+87,Saudi Arabia,north-africa-middle-east,2020,62.4,44.0,41.8,47.2
+89,Tunisia,north-africa-middle-east,2020,55.8,46.7,45.0,49.2
+90,United Arab Emirates,north-africa-middle-east,2020,76.2,55.6,55.9,55.2
+92,Albania,europe,2020,66.9,49.0,52.0,44.5
+93,Armenia,europe,2020,70.6,52.3,58.1,43.5
+94,Austria,europe,2020,73.3,79.6,74.0,88.0
+95,Azerbaijan,europe,2020,69.3,46.5,55.7,32.7
+96,Belarus,europe,2020,61.7,53.0,51.1,55.9
+97,Belgium,europe,2020,68.9,73.3,64.8,86.0
+98,Bosnia and Herzegovina,europe,2020,62.6,45.4,46.4,43.9
+99,Bulgaria,europe,2020,70.2,57.0,61.5,50.3
+100,Croatia,europe,2020,62.2,63.1,64.3,61.2
+101,Cyprus,europe,2020,70.1,64.8,53.7,81.5
+102,Czech Republic,europe,2020,74.8,71.0,72.9,68.3
+103,Denmark,europe,2020,78.3,82.5,76.4,91.7
+104,Estonia,europe,2020,77.7,65.3,60.1,73.0
+105,Finland,europe,2020,75.7,78.9,65.3,99.3
+106,France,europe,2020,66.0,80.0,72.3,91.5
+107,Georgia,europe,2020,77.1,41.3,43.1,38.7
+108,Germany,europe,2020,73.5,77.2,68.9,89.6
+109,Greece,europe,2020,59.9,69.1,61.4,80.6
+110,Hungary,europe,2020,66.4,63.7,70.0,54.1
+111,Iceland,europe,2020,77.1,72.3,55.0,98.1
+112,Ireland,europe,2020,80.9,72.8,58.6,94.2
+113,Italy,europe,2020,63.8,71.0,61.3,85.5
+115,Latvia,europe,2020,71.9,61.6,64.0,58.0
+117,Lithuania,europe,2020,76.7,62.9,62.7,63.2
+118,Luxembourg,europe,2020,75.8,82.3,75.4,92.6
+119,Malta,europe,2020,69.5,70.7,60.5,86.1
+120,Moldova,europe,2020,62.0,44.4,43.6,45.6
+121,Montenegro,europe,2020,61.5,46.3,46.1,46.7
+122,Netherlands,europe,2020,77.0,75.3,64.8,91.0
+123,North Macedonia,europe,2020,69.5,55.4,63.2,43.6
+124,Norway,europe,2020,73.4,77.7,63.8,98.5
+125,Poland,europe,2020,69.1,60.9,62.3,58.9
+126,Portugal,europe,2020,67.0,67.0,56.1,83.4
+127,Romania,europe,2020,69.7,64.7,74.4,50.0
+128,Russia,europe,2020,61.0,50.5,48.8,53.0
+129,Serbia,europe,2020,66.0,55.2,60.2,47.8
+130,Slovakia,europe,2020,66.8,68.3,70.9,64.3
+131,Slovenia,europe,2020,67.8,72.0,74.1,68.9
+132,Spain,europe,2020,66.9,74.3,66.0,86.8
+133,Sweden,europe,2020,74.9,78.7,65.6,98.4
+134,Switzerland,europe,2020,82.0,81.5,72.5,95.0
+135,Turkey,europe,2020,64.4,42.6,36.9,51.3
+136,Ukraine,europe,2020,54.9,49.5,49.9,49.0
+137,United Kingdom,europe,2020,79.3,81.3,74.3,91.7
+138,Angola,sub-saharan-africa,2020,52.2,29.7,35.9,20.4
+139,Benin,sub-saharan-africa,2020,55.2,30.0,36.4,20.3
+140,Botswana,sub-saharan-africa,2020,69.6,40.4,53.8,20.2
+141,Burkina Faso,sub-saharan-africa,2020,56.7,38.3,50.9,19.6
+142,Burundi,sub-saharan-africa,2020,49.0,27.0,30.5,21.9
+143,Cabo Verde,sub-saharan-africa,2020,63.6,32.8,34.5,30.4
+144,Cameroon,sub-saharan-africa,2020,53.6,33.6,46.9,13.6
+145,Central African Republic,sub-saharan-africa,2020,50.7,36.9,53.5,12.2
+146,Chad,sub-saharan-africa,2020,50.2,26.7,34.6,14.9
+147,Comoros,sub-saharan-africa,2020,53.7,32.1,35.3,27.3
+148,Côte d'Ivoire,sub-saharan-africa,2020,59.7,25.8,30.1,19.4
+149,Democratic Republic of Congo,sub-saharan-africa,2020,49.5,36.4,45.7,22.4
+150,Djibouti,sub-saharan-africa,2020,52.9,28.1,33.4,20.1
+151,Equatorial Guinea,sub-saharan-africa,2020,48.3,38.1,45.1,27.6
+152,Eritrea,sub-saharan-africa,2020,38.5,30.4,40.4,15.5
+153,Eswatini,sub-saharan-africa,2020,55.3,33.8,44.6,17.6
+154,Ethiopia,sub-saharan-africa,2020,53.6,34.4,40.6,25.2
+155,Gabon,sub-saharan-africa,2020,56.7,45.8,57.8,27.9
+156,Ghana,sub-saharan-africa,2020,59.4,27.6,32.6,20.1
+157,Guinea,sub-saharan-africa,2020,56.5,26.4,31.5,18.6
+158,Guinea-Bissau,sub-saharan-africa,2020,53.3,29.1,38.4,15.1
+159,Kenya,sub-saharan-africa,2020,55.3,34.7,40.6,25.7
+160,Lesotho,sub-saharan-africa,2020,54.5,28.0,38.8,11.8
+161,Liberia,sub-saharan-africa,2020,49.0,22.6,23.6,21.3
+162,Madagascar,sub-saharan-africa,2020,60.5,26.5,29.4,22.1
+163,Malawi,sub-saharan-africa,2020,52.8,38.3,46.2,26.5
+164,Mali,sub-saharan-africa,2020,55.9,29.4,36.0,19.5
+165,Mauritania,sub-saharan-africa,2020,55.3,27.7,32.8,20.0
+166,Mauritius,sub-saharan-africa,2020,74.9,45.1,35.3,60.0
+167,Mozambique,sub-saharan-africa,2020,50.5,33.9,37.8,28.1
+168,Namibia,sub-saharan-africa,2020,60.9,40.2,52.0,22.5
+169,Niger,sub-saharan-africa,2020,54.7,30.8,39.9,17.1
+170,Nigeria,sub-saharan-africa,2020,57.2,31.0,42.4,13.9
+171,Republic of Congo,sub-saharan-africa,2020,41.8,30.8,39.2,18.1
+172,Rwanda,sub-saharan-africa,2020,70.9,33.8,40.0,24.4
+173,São Tomé and Príncipe,sub-saharan-africa,2020,56.2,37.6,43.6,28.7
+174,Senegal,sub-saharan-africa,2020,58.0,30.7,37.6,20.4
+175,Seychelles,sub-saharan-africa,2020,64.3,58.2,63.1,50.8
+176,Sierra Leone,sub-saharan-africa,2020,48.0,25.7,30.2,19.1
+178,South Africa,sub-saharan-africa,2020,58.8,43.1,51.0,31.1
+179,Sudan,sub-saharan-africa,2020,45.0,34.8,44.1,20.8
+180,Tanzania,sub-saharan-africa,2020,61.7,31.1,33.5,27.4
+181,The Gambia,sub-saharan-africa,2020,56.3,27.9,32.1,21.4
+182,Togo,sub-saharan-africa,2020,54.1,29.5,38.2,16.4
+183,Uganda,sub-saharan-africa,2020,59.5,35.6,42.2,25.7
+184,Zambia,sub-saharan-africa,2020,53.5,34.7,43.9,21.0
+185,Zimbabwe,sub-saharan-africa,2020,43.1,37.0,46.7,22.5
